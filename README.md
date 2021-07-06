@@ -1,7 +1,7 @@
 # BITShare (A resource sharing portal)
 
 Sharing household items, sports equipment, books, medicines and so on is very common amongst the students living in hostels. 
-This project aims to provide a convinient medium for sharing and borrowing of items in an organized and traceable manner.
+This project aims to provide a convenient medium for sharing and borrowing of items in an organized and traceable manner.
 
 
 
